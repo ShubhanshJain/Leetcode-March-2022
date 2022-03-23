@@ -1,1 +1,1 @@
-# Leetcode-March-2022
+This repository consist of Leetcode problems detailed solutions with explanations of March 2022. Every solution is personally solved by me on my Leetcode profile. In case of any query please ping me. :-)
