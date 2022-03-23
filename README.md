@@ -1,1 +1,1 @@
-This repository consist of Leetcode problems detailed solutions with explanations of March 2022. Every solution is personally solved by me on my Leetcode profile. In case of any query please ping me. :-)
+This repository consist of Leetcode problems detailed solutions in Python with explanations of March 2022. Every solution is personally solved by me on my Leetcode profile. In case of any query please ping me. :-)
